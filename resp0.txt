@@ -1,0 +1,37 @@
+    1  dir
+    2  cd Desktop/
+    3  git clone https://github.com/IIC2115/Syllabus
+    4  cd Syllabus/
+    5  ls
+    6  git add'
+
+git add '
+    7  git add *
+    8  git commit -m "se sube el lab 0"
+    9  git init
+   10  git clone https://github.com/lrosses/L0.git
+   11  cd Desktop/Syllabus/L0
+   12  git add *
+   13  git commit -m "se sube el Lab 0"
+   14  git config --global user.email "lrosses@uc.cl"
+   15  git config --global user.name "lrosses"
+   16  git commit -m "se sube lab 0"
+   17  git push
+   18  pwd
+   19  cd Desktop
+   20  cd Desktop/
+   21  cd Desktop/
+   22  pwd
+   23  cd /c/Users/Lore/Desktop/Syllabus
+   24  cd /c/Users/Lore/Desktop
+   25  git clone https://github.com/lrosses/L0.git
+   26  cd L0
+   27   git clone https://github.com/lrosses/L0.git
+   28  cd L0/
+   29  git add *
+   30  git commit -m "Subiendo lab 0"
+   31  git push
+   32  git pull
+   33  doskey /History
+   34  History
+   35  history
